@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: 'MuseoModerno', Arial, Helvetica, sans-serif;
+  font-family: "MuseoModerno", Arial, Helvetica, sans-serif;
   line-height: 1.4;
 }
 
@@ -21,13 +21,13 @@ a {
 .btn {
   display: inline-block;
   border: none;
-  background: #DFCC74;
+  background: #dfcc74;
   color: #fff;
-  font-family: 'MuseoModerno', Arial, Helvetica, sans-serif;
+  font-family: "MuseoModerno", Arial, Helvetica, sans-serif;
   padding: 7px 20px;
   cursor: pointer;
 }
 
 .btn:hover {
-  background: #CB904D;
+  background: #cb904d;
 }
